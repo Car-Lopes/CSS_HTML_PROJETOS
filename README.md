@@ -8,6 +8,6 @@ Repositorio criado para entrega dos projetos e resultados de todo o percurso de 
 - [Projeto(LANDING_PAGE)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Landing_Page)
 
 ## 🔗 PROJETOS_LANDING_PAGE
-- [Projeto(Gamer_Detona_Ralph)]()
+- [Projeto(Gamer_Detona_Ralph)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Gamer/Detona_ralph)
 
 
