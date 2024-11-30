@@ -5,6 +5,6 @@ Repositorio criado para entrega dos projetos e resultados de todo o percurso de 
 
 
 ## 🔗 PROJETOS_LANDING_PAGE
-- [Projeto(LANDING_PAGE)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS)
+- [Projeto(LANDING_PAGE)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Landing_Page)
 
 
