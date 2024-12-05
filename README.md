@@ -10,4 +10,6 @@ Repositorio criado para entrega dos projetos e resultados de todo o percurso de 
 ## 🔗 PROJETOS_LANDING_PAGE
 - [Projeto(Gamer_Detona_Ralph)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Gamer/Detona_ralph)
 
+## 🔗 PROJETOS_XP_HEROIS
+- [Projeto(XP_HEROIS)]()
 
