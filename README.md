@@ -1,4 +1,4 @@
-# CSS_HTML_PROJETOS
+# CSS_HTML_JS_PROJETOS
 Projetos em CSS e HTML e Java Script
 
 Repositorio criado para entrega dos projetos e resultados de todo o percurso de CSS e HTML 
