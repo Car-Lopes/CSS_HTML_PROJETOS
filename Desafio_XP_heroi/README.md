@@ -2,7 +2,6 @@
 
 Desafio proposto pelo instrutor Felipe do Curso de Java Script
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) Projeto base.
 
 **O que deve ser utilizado**
 
