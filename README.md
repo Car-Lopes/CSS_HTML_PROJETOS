@@ -14,4 +14,4 @@ Repositorio criado para entrega dos projetos e resultados de todo o percurso de 
 - [Projeto(XP_HEROIS)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Desafio_XP_heroi)
 
 ## 🔗 PROJETO_JOGO_MEMORIA
-- [Projeto(JOGO_MEMORIA)]()
+- [Projeto(JOGO_MEMORIA)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Memory_game)
