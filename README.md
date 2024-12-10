@@ -18,3 +18,6 @@ Repositorio criado para entrega dos projetos e resultados de todo o percurso de 
 
 ## 🔗 PROJETO_JOGO_YUGIOH
 - [Projeto(JOGO_YUGIOH)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Yugioh_game)
+
+## 🔗 PROJETO_SIMULADOR_PIANO
+- [Projeto(SIMULADOR_PIANO)]()
