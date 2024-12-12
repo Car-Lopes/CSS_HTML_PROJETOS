@@ -37,6 +37,9 @@
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
 
+## 🛠️ FERRAMENTAS
+[![LiveServer](https://img.shields.io/badge/Live_Server-000?style=for-the-badge&logo=Live%20Server&labelColor=rgb(235%2C%2058%2C%20248))](https://github.com/ritwickdey/vscode-live-server-plus-plus)
+
 
 
 [Clique aqui](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido/tree/main) Projeto base.
