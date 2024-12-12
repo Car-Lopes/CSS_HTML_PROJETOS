@@ -21,3 +21,6 @@ Repositorio criado para entrega dos projetos e resultados de todo o percurso de 
 
 ## 🔗 PROJETO_SIMULADOR_PIANO
 - [Projeto(SIMULADOR_PIANO)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Simulador_Piano)
+
+## 🔗 PROJETO_MUNDO_INVERTIDO
+- [Projeto(MUNDO_INVERTIDO)](https://github.com/Car-Lopes/CSS_HTML_PROJETOS/tree/master/Landing_Page_Mundo_Ivertido)
