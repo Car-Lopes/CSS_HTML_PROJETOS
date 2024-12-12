@@ -9,9 +9,6 @@
 </p>
 
 
-
-
-
 ## 💻 Tecnologias
 - HTML
 - CSS
@@ -36,14 +33,6 @@
     - Manipulação do DOM
     - Introdução ao Firebase
     - Integração com o Firebase
-
-
-## 🔗 Links auxiliares
-
-- [W3C - World Wide Web Consortium](http://w3c.org)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-
 
 ## 🛠️ FERRAMENTAS
 [![LiveServer](https://img.shields.io/badge/Live_Server-000?style=for-the-badge&logo=Live%20Server&labelColor=rgb(235%2C%2058%2C%20248))](https://github.com/ritwickdey/vscode-live-server-plus-plus)
